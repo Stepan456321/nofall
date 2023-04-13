@@ -8,7 +8,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class NoFallPlugin extends JavaPlugin implements Listener {
+public class Main extends JavaPlugin implements Listener {
 
     private Location spawnLocation;
 
